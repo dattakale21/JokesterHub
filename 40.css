@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.con {
+    width: 80vw;
+    height: 40vh;
+    display: flex;
+    background-color: cyan;
+    color: red;
+    justify-content: center;
+    align-items: center;
+    margin: auto auto;
+    margin-top: 9rem;
+}
+
+.con h1 {
+    padding: 3rem 4rem;
+}
+
+/* Code By - Datta Kale  */
